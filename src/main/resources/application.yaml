@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: cashback
+
+cashback:
+  category:
+    FOOD: 5
+    TRAVEL: 10
+    OTHER: 1
+  fixed: 2
+  cap: 50
+
+
