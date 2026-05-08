@@ -32,7 +32,7 @@ public class TotalCashback {
     public String toString() {
         return "TotalCashback{" +
                 "pack=" + pack +
-                ", amount=" + totalCashback +
+                ", totalCashback=" + totalCashback +
                 '}';
     }
 }
